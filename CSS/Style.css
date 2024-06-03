@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+  }
+
+  .navbar {
+    background-color: #f4ece1;
+  }
+
+  .navbar-brand,
+  .nav-link {
+    color: #6d4c41 !important;
+  }
+
+  .nav-link.active {
+    color: #d84315 !important;
+  }
+
+  .btn-primary {
+    background-color: #d84315;
+    border-color: #d84315;
+  }
+
+  .btn-primary:hover {
+    background-color: #bf360c;
+    border-color: #bf360c;
+  }
+
+  footer {
+    background-color: #f4ece1;
+  }
